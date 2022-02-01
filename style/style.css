@@ -51,10 +51,12 @@ header>p {
     font-family: var(--fontePadrao);
     font-size: 1.2em;
     max-width: 500px;
+    margin-bottom: 20px;
     margin: auto;
     padding-right: 10px;
     padding-left: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.63);
+
 }
 
 nav {
@@ -65,7 +67,7 @@ nav {
 }
 
 nav>a {
-    color: white;
+    color: rgba(86, 207, 86, 0.815);
     padding: 10px;
     text-decoration: none;
     font-weight: bold;
